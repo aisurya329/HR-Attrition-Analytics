@@ -15,3 +15,6 @@ Developed a comprehensive HR Analytics Dashboard in Power BI to provide stakehol
   - Implemented a professional and cohesive **color palette**  
   - Optimized dashboard layout for improved **readability**  
 - Transformed and structured **raw data** to create an accurate and reliable foundation for the dashboard, ensuring **data integrity** for all insights and reports.
+## Dashboard Preview
+
+![HR Analytics Dashboard](https://github.com/YourUsername/YourRepoName/blob/main/dashboard_screenshot.png?raw=true)
